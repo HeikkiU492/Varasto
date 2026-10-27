@@ -1,0 +1,2 @@
+# Varasto
+Harjakatto varasto
